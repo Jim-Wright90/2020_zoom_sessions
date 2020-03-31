@@ -1,6 +1,5 @@
 ---
 title: "Spring 2020 Jim Zoom Clients"
-author: "Jim Wright"
 output: 
   html_document:
    toc: true
