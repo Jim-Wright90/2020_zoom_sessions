@@ -4,11 +4,15 @@ output:
   html_document:
    toc: true
    toc_float: true
+   theme: "spacelab"
 ---
 
 ## LICH
 ### Wednesdays 2:00
 [Zoom Link](https://zoom.us/j/600116955)
+
+#### Password
+268003
 
 #### Sesion Dates
 * Apr 8, 2020 02:00 PM
@@ -27,6 +31,9 @@ output:
 ### Thursdays 3:00
 [Zoom Link](https://zoom.us/j/109660826)
 
+#### Password
+547577
+
 #### Session Dates
 * Apr 9, 2020 03:00 PM
 * Apr 16, 2020 03:00 PM
@@ -44,14 +51,19 @@ output:
 ### Wednesdays 4:00 
 [Initial Consultation Zoom Link](https://zoom.us/j/515564429)
 
-
+#### Password
+158705
 
 ## DRKAT 
 ### Thursdays 1:00 
 [Initial Consultation Zoom Link](https://zoom.us/j/126729794)
 
-
+#### Password
+607415
 
 ## CHMAR
 ### Thursdays 11:00
 [Initial Consultation Zoom Link](https://zoom.us/j/745275753)
+
+#### Password
+049540
