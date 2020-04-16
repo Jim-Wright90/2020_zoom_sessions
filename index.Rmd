@@ -45,6 +45,24 @@ output:
 
 
 
+## CHMAR
+### Thursdays 11:00
+[Zoom Link](https://zoom.us/j/98802116060?pwd=OFpqZmFaUlFaWWJwbW9wZFdjMUp5dz09)
+
+#### Password
+049540
+
+#### Session Dates 
+* Apr 23, 2020 11:00 AM
+* Apr 30, 2020 11:00 AM
+* May 7, 2020 11:00 AM
+* May 14, 2020 11:00 AM
+* May 21, 2020 11:00 AM
+* May 28, 2020 11:00 AM
+* Jun 4, 2020 11:00 AM
+
+
+
 ## HEHE
 ### Thursdays 3:00
 [Zoom Link](https://zoom.us/j/109660826?pwd=Z0JSNjVCTkNZU3doenNUK3NCQ1RCUT09)
@@ -71,10 +89,3 @@ output:
 
 #### Password
 607415
-
-## CHMAR
-### Thursdays 11:00
-[Initial Consultation Zoom Link](https://zoom.us/j/745275753?pwd=UnR2YkZvRnZDZGdFTEZxY252NFZoUT09)
-
-#### Password
-049540
