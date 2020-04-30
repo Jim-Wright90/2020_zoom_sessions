@@ -23,23 +23,19 @@ output:
 
 
 
-## LICH
-### Wednesdays 2:00
-[Zoom Link](https://zoom.us/j/600116955?pwd=SlM0cU13dnZtcDR6dkRXakRvRC9rdz09)
+## FALO
+### Tuesdays 12:00
+[Zoom Link](https://zoom.us/j/91899016446?pwd=bm16M3JmTTJKUnJ5RXMvSjZHWDRRUT09)
 
 #### Password
-268003
+517594
 
-#### Sesion Dates
-* Apr 8, 2020 02:00 PM
-* Apr 15, 2020 02:00 PM
-* Apr 22, 2020 02:00 PM
-* Apr 29, 2020 02:00 PM
-* May 6, 2020 02:00 PM
-* May 13, 2020 02:00 PM
-* May 20, 2020 02:00 PM
-* May 27, 2020 02:00 PM
-* Jun 3, 2020 02:00 PM
+#### Session Dates
+* May 5, 2020 12:00 PM
+* May 12, 2020 12:00 PM
+* May 19, 2020 12:00 PM
+* May 26, 2020 12:00 PM
+* Jun 2, 2020 12:00 PM
 
 
 
@@ -78,9 +74,3 @@ output:
 
 
 
-## FALO
-### Wednesdays 4:00
-[Initial Consultation Zoom Link](https://zoom.us/j/93733698036?pwd=L2JwQ244UXpGVG0reWlNSEkyaE1sZz09)
-
-#### Password
-620486
